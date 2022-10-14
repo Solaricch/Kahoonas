@@ -6,7 +6,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... {'car':'Volvo', 'year': 2015}, 
 ... {'car': 'Toyota', 'year': 2020}, 
 ... {'car': 'BMW', 'year': 2019}, 
-... {'car': 'VW', 'year': 2021} 
+... {'car': 'VW', 'year': 2021}, 
 ... {'car': 'Hyundai', 'year': 2021}
 ... ] 
 ... 
